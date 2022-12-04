@@ -1,0 +1,3 @@
+messaging using pipeline
+1. It don't have memory limit.
+2. Its two way communincation
