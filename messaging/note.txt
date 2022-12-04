@@ -1,0 +1,6 @@
+messaging using queue
+1. It have memory limit.
+2. Its one way communincation
+
+In muti process messaging, I got this error,
+https://stackoverflow.com/questions/67632749/python-official-docs-code-multiprocessing-lock-example-fails-to-run
